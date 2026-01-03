@@ -1,16 +1,24 @@
-# React + Vite
+# Premium Interactive Portfolio - Survey Sparrow Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance, interactive portfolio built for the Survey Sparrow Placement Drive. This project focuses on premium motion design, responsive architecture, and seamless user experience using the modern React ecosystem.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[PASTE YOUR VERCEL LINK HERE]**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
 
-## React Compiler
+## ✨ Key Features Implemented
+- **Animated Hero:** Staggered text reveal with custom cubic-bezier easing for a premium feel.
+- **3D About Section:** Interactive 3D tilting effect on the profile illustration.
+- **Skills Progress:** Scroll-triggered animated bars using Framer Motion's `whileInView`.
+- **Interactive Gallery:** Responsive masonry grid with a Lightbox popup and hover-zoom effects.
+- **Functional Contact:** Form with real-time validation and `mailto` integration.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Local Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ruchithaMR/survey-sparrow-assignment.git](https://github.com/ruchithaMR/survey-sparrow-assignment.git)
