@@ -3,7 +3,7 @@
 A high-performance, interactive portfolio built for the Survey Sparrow Placement Drive. This project focuses on premium motion design, responsive architecture, and seamless user experience using the modern React ecosystem.
 
 ## 🚀 Live Demo
-**[PASTE YOUR VERCEL LINK HERE]**
+**[[PASTE YOUR VERCEL LINK HERE]](https://survey-sparrow-assignment-rho.vercel.app/)**
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js (Vite)
